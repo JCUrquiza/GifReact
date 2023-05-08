@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba de componente <GifItem> Debe de tener un título 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Saitama"
+      src="https://"
+    />
+    <p>
+      Saitama
+    </p>
+  </div>
+</div>
+`;
